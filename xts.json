@@ -72,17 +72,6 @@
   "filterable": 0,
   "ext": "http://www.feifwp.top"
  },
- {"key":"csp_Alist1","name":"Alist_一只鱼(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.youte.ml",}, {"key":"csp_Alist2","name":"Alist_嗨翻(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.hikerfans.com"}, {"key":"csp_Alist3","name":"Alist_晴园(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.52qy.repl.co"}, {"key":"csp_Alist4","name":"Alist_Adult.Drive(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drive.9t.ee"}, {"key":"csp_Alist5","name":"Alist_七米蓝(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://al.chirmyram.com"}, {"key":"csp_Alist6","name":"Alist_神族九帝(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.shenzjd.com"},
- {
-  "key": "csp_Alist3",
-  "name": "Alist3",
-  "type": 3,
-  "api": "csp_Alist",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "https://alist.52qy.repl.co"
-},
 {"key": "csp_XYQBiu_万能影视","name":"万能视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lianqwe.github.io/s/wn.json"},
 
             {"key":"IQIYI","name":"爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
