@@ -1,5 +1,5 @@
  { "sites": [
-    	{"key":"戏曲","name":"✨戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://lianqwe.github.io/s/xq.json"}
+    	{"key":"戏曲","name":"🅱️戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://lianqwe.github.io/s/xq.json"}
   ],
   "lives": [
     {
@@ -327,6 +327,6 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://lifenglin.usa3v.work/0.png",
- "spider": "https://lianqwe.github.io/s/tss.jar"
+ "spider": "https://lianqwe.github.io/s/tss.jar;md5;5583adeb2c73856a2a401810a7329523"
     //"spider":"http://lifenglin.usa3v.work/xy.jar"
 }
