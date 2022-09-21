@@ -173,7 +173,7 @@ TVB40,http://txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074
 周润发影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
 周星驰影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
 追剧少女,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318
-CCTV6电影,https://lianqwe.000webhostapp.com/migu.php?/migu/624878396
+CCTV6电影,https://lianqwe.000webhostapp.com/migu.php?/624878396
 CCTV8电视剧,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
