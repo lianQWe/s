@@ -27,6 +27,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,    "ext":"b59078cfd7624ddaa4407ecdb0ce564d"},
+      {
+            "key": "Upyunso",
+            "name": "up云搜",
+            "type": 3,
+            "api": "csp_Upyunso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "b59078cfd7624ddaa4407ecdb0ce564d" },
     {"key": "Lezhu_spider",
 	"name": "🐞乐猪影视",
 	"api": "csp_Lezhu",
@@ -859,6 +868,6 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://lianqwe.github.io/s/0.png",
- "spider": "https://lianqwe.github.io/s/0917.jar"
+ "spider": "https://lianqwe.github.io/s/0922.jar"
     //"spider":"https://lianqwe.github.io/s/xy.jar"
 }
